@@ -79,7 +79,7 @@ Frontend Setup
 
 Open index.html in your web browser.
 
-Ensure the backend is running at http://localhost:8989/api/books.
+Ensure the backend is running at http://localhost:8989/index.html.
 
 Use the interface to add, edit, delete, or search books.
 
